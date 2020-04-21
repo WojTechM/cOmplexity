@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Objects;
 
 /**
- * Next: {@link com.github.wojtechm.c0mplexity.examples.reduce.Reduce}
+ * Next: {@link com.github.wojtechm.c0mplexity.examples.palindrome.IsPalindrome}
  *
  * @author Wojciech Makieła
  */
